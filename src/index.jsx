@@ -18,8 +18,6 @@ export function App() {
     getData();
   }, []);
 
-  // console.log(result)
-
   return (
     <>
       <div class="header">

@@ -93,7 +93,6 @@
   box-shadow: 0 0 0 0.1875rem rgba(0, 88, 163, 0.5);
 }
 
-/* Responsive adjustments */
 @media screen and (max-width: 1024px) {
   .card {
     width: 45%;
