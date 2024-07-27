@@ -1,5 +1,5 @@
 {
-	"private": true,
+	"private": false,
 	"homepage": "https://shadmanc01.github.io/interviewApp/",
 	"type": "module",
 	"scripts": {
