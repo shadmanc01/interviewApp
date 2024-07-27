@@ -1,10 +1,10 @@
-# `create-preact`
+# `Shadman's Finished Code Challenge`
 
 <h2 align="center">
   <img height="256" width="256" src="./src/assets/preact.svg">
 </h2>
 
-<h3 align="center">Shadman's Finished Code Challenge</h3>
+<h3 align="center">I built this out using Preact</h3>
 
 ## Getting Started
 
