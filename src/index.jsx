@@ -17,7 +17,6 @@ export function App() {
     }
     getData();
   }, []);
-
   return (
     <>
       <div class="header">
