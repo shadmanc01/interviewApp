@@ -2,7 +2,7 @@ import { defineConfig } from 'vite';
 import preact from '@preact/preset-vite';
 
 export default defineConfig({
-	base: '/<interviewApp>/',
+	base: '/interviewApp',
 	plugins: [
 		preact({
 			prerender: {
